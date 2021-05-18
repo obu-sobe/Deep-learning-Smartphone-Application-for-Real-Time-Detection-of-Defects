@@ -5,6 +5,7 @@ Condition assessment and health monitoring (CAHM) of built assets, require effec
 ### The Proposed Detector
 A study by Google Research for testing the speed and accuracy of many pre-trained neural network models suggests that SSD with MobileNet is one the fastest and most accurate models for mobile device applications (43). SSD MobileNet is developed in Tensorflow and require a relatively small CPU/GPU loads and low memory consumption whilst maintaining high accuracy. Moreover, SSD MobileNet is particularly optimised for fast run time on embedded devices (such as smartphones) since these networks combine the use of single feed-forward deep neural networks and the architecture of MobileNets. The main distinctive feature of MobileNets is in the deployment of the so-called depthwise separable filters for building the core layers. These filters factorize a full-size convolution into a smaller 1×1 depthwise convolution called pointwise convolution as illustrated in Figure 2 (60).
 
+![ssd](https://user-images.githubusercontent.com/76107657/118638399-b6072680-b7ce-11eb-98ca-0537f18ce7f6.png)
 
 
 ### Training Dataset
