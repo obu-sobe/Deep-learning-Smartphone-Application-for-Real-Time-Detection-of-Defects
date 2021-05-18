@@ -23,3 +23,5 @@ To improve the training experience, all images in the dataset were placed at the
 ### Detection Results
 ![mobile_results](https://user-images.githubusercontent.com/76107657/118629972-01690700-b7c6-11eb-8076-6b0556df6357.png)
 
+Screenshots representing predicted defects obtained from running the smartphone App. (a) represents the detection of cracks with the corresponding accuracy and inference time, (b) represents the detection of paint deterioration with its corresponding accuracy and inference time, (c) represents the detection of mould with its corresponding accuracy and inference time, and finally (d) represents the detection of stain with its corresponding accuracy and inference time.
+
