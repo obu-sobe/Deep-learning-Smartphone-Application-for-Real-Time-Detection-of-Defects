@@ -24,7 +24,10 @@ To improve the training experience, all images in the dataset were placed at the
 
 Screenshots representing predicted defects obtained from running the smartphone App. (a) represents the detection of cracks with the corresponding accuracy and inference time, (b) represents the detection of paint deterioration with its corresponding accuracy and inference time, (c) represents the detection of mould with its corresponding accuracy and inference time, and finally (d) represents the detection of stain with its corresponding accuracy and inference time.
 ![mb](https://user-images.githubusercontent.com/76107657/118639525-e8655380-b7cf-11eb-8651-e36512a2d713.png)
+
 ![mb4](https://user-images.githubusercontent.com/76107657/118639625-0468f500-b7d0-11eb-9104-121a224d1e61.png)
+
 ![mb3](https://user-images.githubusercontent.com/76107657/118639632-059a2200-b7d0-11eb-81d1-3f54ed34da70.png)
+
 ![mb2](https://user-images.githubusercontent.com/76107657/118639637-0632b880-b7d0-11eb-9371-a0989eae0915.png)
 
