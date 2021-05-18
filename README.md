@@ -12,6 +12,14 @@ A study by Google Research for testing the speed and accuracy of many pre-traine
 
 ![datasetsample](https://user-images.githubusercontent.com/76107657/118629683-be0e9880-b7c5-11eb-9f4f-68c74df39347.png)
 
+### Augmentation
+Data Augmentation
+To improve the training experience, all images in the dataset were placed at the centre of a random background image of size 300 x 300 as illustrated by Figure 4. These random background images were obtained from The Visual Geometry Group – University of Oxford. The purpose of adding these random backgrounds is to avoid overfitting yet make the model more robust to various input object shapes and sizes. This is called image manipulation, otherwise data augmentation, a well-known technique in deep learning used to enhance the quality and the size of the training dataset. Data augmentation also include other techniques including such as geometric transformations, colour space augmentations, kernel filters, mixing images, random erasing, amongst others 
+![image](https://user-images.githubusercontent.com/76107657/118639201-8ad10700-b7cf-11eb-92ab-61756d6dad1f.png)
+
+![ag](https://user-images.githubusercontent.com/76107657/118639057-64ab6700-b7cf-11eb-810e-424adc0467dd.png)
+
+
 ### Detection Results
 ![mobile_results](https://user-images.githubusercontent.com/76107657/118629972-01690700-b7c6-11eb-8076-6b0556df6357.png)
 
